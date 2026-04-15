@@ -4,6 +4,7 @@ name: Eyelash Sofle
 url: https://github.com/a741725193/zmk-sofle
 type: board
 arch: arm
+snippet: zmk-usb-logging
 features:
   - keys
   - display
